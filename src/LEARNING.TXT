@@ -1,0 +1,175 @@
+1.How React Starts ?
+React Module.
+
+1. What is React and Why React ?
+    => Done.
+2. Main features of react. => Done.
+    => Component-based web development.
+    => Set of HTML/CSS/JS which can be reused.
+    => JSX. [JavaScript+HTML] => JS Extension.
+    => Virtual DOM.
+    => SPA. [Single Page Application]
+
+
+3. How to create a project. - Done
+4. Hwo React Starts - Done.
+    
+
+4. How to run project. - Done.
+5. Folders and file structures. - Done.
+6. Components. - Done.
+6.1 NPM
+7. JSX.
+8. Virtual DOM
+9. Lifecycle hooks.
+10. States.
+11. Props.
+12. Event handling.
+13. Data passing.
+14. Event Passing.
+15. Why Context API.
+16. Implement context api.
+17. Why redux
+18. HOw redux is implemented.
+19. Routers and Navigations.
+20. Styling components.
+21. HTTP Calls./API Calls.
+22. Data Binding.
+23. Form Validation library.
+
+
+
+DOM => Tree. Heavy Structure.
+DOM Manipulation=> Expensive operations.
+
+
+
+NPM => Node Package Manager.
+
+manage packages.
+    => Stores them.
+    => updates them by managing different versions.
+    => Manage removals of pakcages.
+    => manages execution.
+    => manage installation.
+
+Java => Maven.
+.Net, C# => Nuget.
+Python => pip.
+JS(Node, React, Angular) => NPM, YARN
+
+
+
+Async=> Get data.
+Component prepares-> Renders.=> Rendered.
+
+-------Async Starts.------------------------------------------Data fetched.
+-------COmponent rendering Starts----- rendered-----productsState.
+
+Creation.
+Rendering/MOunting.[Start, End]
+useState [States in React].
+
+State => 
+1. box which contains data
+2. refreshes your component.
+3. Allows data to survive.
+
+Destroy,
+
+
+
+
+1.What is React And Why React ? => Done
+    =>This is for Convinience
+2.Main Features of React.
+    =>Component-based web development
+        ->Set of HTML/CSS/JS which can be reused.or
+        ->Part of body 
+        ->it can be entair page or 
+        it can be small part of web page which can be 
+        represents the user interface. 
+    =>JSX.[JavaScrpt+HTML] =>JS Extension.
+        ->it combines javascrit and HTML together
+    =>virtual DOM.=>it prevents where delevoper
+         made changes react translate changes 
+         in high optimized code to update the actula DOM with 
+         minimum operations
+       ->it helps with optimization
+       ->dom is the tree which represents the 
+        which represents the entir page in tree structure.
+       ->virtual dom is a copy of dom where you(developer) can
+        made changes in dom that will be virtual dom.
+        it refreshes the where u(developer) can change
+       ->
+    =>SPA. [Single Page Application] 
+        ->Facebook,Entire Facebook or Instagram Application
+        that can made single html page.
+3.How to create a project.
+4.How to run project.
+5.Folders and file structures.
+6.Components.
+7.JSX.
+8.virtual DOM.
+9.Lifecycle hooks.
+10.States.
+11.props.
+12.API:Application Programming interface,
+    Connectors(ex:we have phone to connect to charger)
+    SERVER
+    Waiter(EX:Restorent):It allows servises
+    like it means it is programmed or Designed or Trained    
+    it does not do have any data,make builds
+    bring servises to Client
+    it will bring data from Database, it is interact to Database
+    it talk to other servises to
+    it has only power of it will be provide all the services to developer
+    useEffect,fetch and eventloop(in js)
+    
+
+
+
+12.Event handling.
+13.Data Passing.
+14.evet passing.
+
+
+
+
+
+Dheeraj Kumar
+
+npx create-react-app e-commerce
+
+Ashutosh Sasmal
+
+use npm create vite@latest  it is much faster
+
+
+
+
+
+
+API: interface
+API Methods.
+
+GET => To get data from server.
+POST => To add something to server.
+PUT => To update data.
+DELETE => To delete data.
+
+body => payload.
+
+
+
+
+
+
+
+Create a zip file of your code, upload it on 
+Google Drive, and enable public sharing. 
+You can then submit your Loom and Drive links.
+
+https://github.com/dheerajsk/relevel-react-e-commerce/tree/master/src
+https://github.com/Quickdiv311/RelevelEcommerce
+

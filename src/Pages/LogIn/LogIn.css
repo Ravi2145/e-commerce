@@ -1,0 +1,14 @@
+.LogIn-form{
+   margin: 12% 35%;
+   justify-content: center;
+   align-items: center;
+}
+.form-container{
+    width: 100%;
+}
+form{
+    width: 100%;
+}
+hr{
+    width: 100%;
+}

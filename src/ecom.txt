@@ -1,0 +1,265 @@
+To Dos For E-com Application
+
+Login page.
+SignUp Page.
+Home Page.
+    =>Header.
+    =>Footer.
+    =>Show Product List.
+    =>SearchBar.
+
+Order.
+    =>Cart
+    =>Checkout
+
+WishList
+Product Page.
+    =>Details, rating.
+    =>reviews.
+About App.
+Profile
+
+
+
+
+
+
+
+// Which of the following property is used as the shorthand property for the padding properties?
+// Options
+
+// padding-left
+
+// padding-right
+
+// padding
+
+// All of the above
+
+
+
+// The CSS property used to specify the transparency of an element is -
+// Options
+
+// opacity
+
+// filter
+
+// visibility
+
+// overlay
+
+
+
+// Which of the following is used to specify the subscript of text using CSS?
+// Options
+
+// vertical-align: sub
+
+// vertical-align: super
+
+// vertical-align: subscript
+
+// None of the above
+
+
+
+
+// The CSS property used to specify whether the text is written in the horizontal or vertical direction?
+// Options
+
+// writing-mode
+
+// text-indent
+
+// word-break
+
+// None of the above
+
+
+
+
+// Which of the following syntax is correct in CSS to make each word of a sentence start with a capital letter?
+// Options
+
+// text-style : capital;
+
+// transform : capitalize;
+
+// text-transform : capital;
+
+// text-transform : capitalize;
+
+
+
+
+// Which of the following is the correct syntax to select all paragraph elements in a div element?
+// Options
+
+// div p
+
+// p
+
+// div#p
+
+// div ~ p
+
+
+
+
+// Is Bootstrap3 mobile-first?
+// Options
+
+// TRUE
+
+// FALSE
+
+// Can't say
+
+// May be
+
+
+
+
+// Which of the following class in Bootstrap is used to provide a responsive fixed width container?
+// Options
+
+// .container-fixed
+
+// .container-fluid
+
+// .container
+
+// All of the above
+
+
+
+
+// Which of the following class in bootstrap is used to create a big box for calling extra attention?
+// Options
+
+// .box
+
+// .container
+
+// .container-fluid
+
+// .jumbotron
+
+
+
+// The correct syntax of creating a standard navigation bar is -
+// Options
+
+// <nav class="navigationbar navbar">
+
+// <nav class="navbar navbar-default">
+
+// <nav class="nav navbar">
+
+// <nav class="navbar default"></nav>
+
+
+
+
+// The plugin used to create a cycle through elements as a slideshow is -
+// Options
+
+// slideshow
+
+// scrollspy
+
+// carousel
+
+// None of the above
+
+
+
+// Which of the following class in Bootstrap is used to create a basic list group?
+// Options
+
+// .grouped-list
+
+// .select-list
+
+// .list-group
+
+// .list-grouped
+
+
+
+
+// Which of the following class in Bootstrap is used to add a zebra-stripe to a table?
+// Options
+
+// .tab-striped
+
+// .zebra-strip
+
+// .table-stripped
+
+// .table-striped
+
+
+
+// Which of the following class in Bootstrap is used to create a large button?
+// Options
+
+// .btn-xl
+
+// .btn-lrg//ans
+
+// .btn-large
+
+// .btn-lg
+
+
+
+
+// Which of the following plugin in Bootstrap is used to create a modal window?
+// Options
+
+// popup
+
+// alert
+
+// modal
+
+// window
+
+
+
+// How to dynamically set button labels?
+// Options
+
+// Through innerHTML
+
+// Via label tag
+
+// Button attribue
+
+// All of the above.
+
+
+
+
+// Why is document.createElement used for?
+// Options
+
+// To manipulate DOM.//ans
+
+// To beautify the web page.
+
+// To create an HTML element node.
+
+// None of the above.
+
+
+// The class used for shaping an image to a circle is
+// Options
+
+// .img-rounded
+
+// .img-circle
+
+// None of the above
