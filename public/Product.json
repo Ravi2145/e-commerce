@@ -2,60 +2,70 @@
     {
         "name":"iPhone 14",
         "price":"95000",
+        "qty":1,
         "detail":"Created byApple",
         "image":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT8jfoT_1e6_UWPDq-xXstrtX-k_sPwQqVihIrqEHpFFCr4b22lv_N6bpIm-M5sKFzNSPhSODIitL0j9Q&usqp=CAc"
     },
     {
         "name":"Bluetooth",
         "price":20000,
+        "qty":1,
         "detail":"boAt Rockerz 245 pro Bluetooth Neckband with Beast™ Mode(Super Low Latency) for Gaming, ENx™ Tech for Clear Calls, ASAP™ Charge, 20HRS Playtime,IPX4, Dual...",
         "image":"https://images-eu.ssl-images-amazon.com/images/I/31aNgbvYJKL._AC_SR400,600_.jpg"
     },
     {
         "name":"Power Bank",
         "price":15000,
+        "qty":1,
         "detail":"MI Power Bank 3i 20000mAh Lithium Polymer 18W Fast Power Delivery Charging | Input- Type C | Micro USB| Triple Output | Sandstone Black",
         "image":"https://m.media-amazon.com/images/I/71lVwl3q-kL._AC_UY218_.jpg"
     },
     {
         "name":"Smart Watch for Men",
         "price":10000,
+        "qty":1,
         "detail":"Noise ColorFit Ultra 2 with 1.78(4.5cm) AMOLED Display, Best-in-Class Resolution, Premium Stainless Steel Body, 60+ Sports Modes, 100+ Watch Faces, IP68 Waterproof (Jet Black),OneSize",
         "image":"https://m.media-amazon.com/images/I/61e3RGDou4L._SY450_.jpg"
     },
     {
         "name":"Lenovo",
         "price":65000,
+        "qty":1,
         "detail":"Lenovo IdeaPad Slim 3 Intel Celeron N4020 4th Gen 15.6 (39.62cm) HD Thin & Light Laptop (8GB/256GB SSD/Windows 11/Office 2021/2Yr Warranty/3months Game Pass/Platinum Grey/1.7Kg), 81WQ00MQIN",
         "image":"https://m.media-amazon.com/images/I/61Dw5Z8LzJL._AC_UY218_.jpg"
     },
     {
         "name":"Head Phones",
         "price":37000,
+        "qty":1,
         "detail":"Jabra Evolve2 65 Link380a UC Stereo BlackWork from anywhere with Jabra Evolve2 65 superior wireless audio performance and great battery and true comfort. Works with all leading MS platforms with built in busylight indicator. Powerful leak tolerant 40mm speakers. 37 Hours of battery life. Bluetooth, up to 30m Isolating foam oval ear cushions and pioneering new angled earcup design work to effectively block out your surrounding.",
         "image":"https://headsetsindia.com/wp-content/uploads/2022/09/Jabra-Evolve2-65-UC-Black-Stereo-Charging-Port-and-Buttons-LB-750x750.png"
     },
     {
         "name":"smart LED Light",
         "price":1700,
+        "qty":1,
         "detail":"Gesto 300 Led Smart LED Light Strips with Adaptor,Music Sync with Alexa and Google, App.Operated Led Strip Lights for Bedroom for Living Room, Home Decor(16...",
         "image":"https://m.media-amazon.com/images/I/71Xbc4BjV3L._AC_UL320_.jpg"
     },
     {
         "name":"Echo Dot(Smart Speaker)",
         "price":7000,
+        "qty":1,
         "detail":"Echo Dot (4th Gen, 2020 release) with clock | Next generation smart speaker with powerful bass, LED display and Alexa (Blue)",
         "image":"https://m.media-amazon.com/images/I/61VMT8H7RvL._SL1000_.jpg"
     },
     {
         "name":"Samsung",
         "price":44000,
+        "qty":1,
         "detail":"Samsung 80 cm (32 Inches) Wondertainment Series HD Ready LED Smart TV UA32T4340BKXXL (Glossy Black)",
         "image":"https://m.media-amazon.com/images/I/51q3+E64azL._SX300_SY300_.jpg"
     },
     {
         "name":"Smart Security Camera",
         "price":9000,
+        "qty":1,
         "detail":"CP Plus 1080P Full HD Smart Security Camera | 360° with Pan & Tilt | Two Way Talk | Cloud Monitor | Motion Detect | Night Vision | Supports SD Card (Up to 128 GB) | Alexa & Ok Google | White - CP-E21A",
         "image":"https://m.media-amazon.com/images/I/518y9EFw9vL._SX450_.jpg"
     }

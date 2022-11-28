@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import './CartItem.css';
 
 function CartItem(prop)
@@ -7,16 +7,18 @@ function CartItem(prop)
     let [quantity, setQuantity] = useState(1);
     let [totalPrice, setPrice]=useState(prop.item.price);
 
-    function handleQuantityChange(value){
-        if(value>0){
-            totalPrice = Number(prop.item.price)*value;
-            setQuantity(value);
+    function handleQuantityChange(newQuantity){
+        if(newQuantity>0){
+            totalPrice = Number(prop.item.price)*newQuantity;
+            setQuantity(newQuantity);
             setPrice(totalPrice);
         }else{
             totalPrice=0;
             setPrice(totalPrice);
             setQuantity(0);
         }
+        //step 5 : Call parents function with new quantity.
+        prop.updatePrice(prop.item,newQuantity);
     }
     
   return(
